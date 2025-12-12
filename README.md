@@ -1,1 +1,1 @@
-# llm_engineer_plus_python
+# LLM Engineer plus Python playground
